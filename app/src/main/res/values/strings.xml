@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComparationTextApp</string>
+    <string name="one_word">Ingrese texto</string>
+    <string name="equal">=</string>
+    <string name="another_word">Ingrese otro texto</string>
+    <string name="btn_comparation">Comparar textos</string>
+    <string name="toast_msg">Ingrese ambos textos por favor</string>
+</resources>

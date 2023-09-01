@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standar_margins">10dp</dimen>
+    <dimen name="equal_size">30sp</dimen>
+    <dimen name="button_margins">8dp</dimen>
+</resources>
